@@ -5,6 +5,12 @@ Full-stack developer in Nairobi (UTC+3). I build Laravel backends and Vue/Nuxt f
 #### Currently building
 **ShoppingMall** — a multi-merchant commerce platform for Kenya (Laravel 13, Livewire, PostgreSQL). In development; the source is private. Progress and engineering decisions are documented in [shoppingmall-showcase](https://github.com/leojeremy/shoppingmall-showcase).
 
+#### Open source
+| Repo | What it is |
+|---|---|
+| [laravel-ts-contract-tests](https://github.com/leojeremy/laravel-ts-contract-tests) | Two-sided API contract tests: Pest records real Laravel responses as JSON fixtures, tsc and Vitest check a typed TypeScript client against them, so drift fails CI. |
+| [vue-form-errors](https://github.com/leojeremy/vue-form-errors) | Vue 3 composable that maps a Laravel 422 onto form fields accessibly: aria-invalid, aria-describedby, focus on the first error in page order. |
+
 #### What I work with
 ```
 Backend:   Laravel · PHP · Eloquent · Sanctum · Horizon · Reverb · Livewire · Filament
