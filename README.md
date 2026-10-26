@@ -3,7 +3,7 @@
 Full-stack developer in Nairobi (UTC+3). I build Laravel backends and Vue/Nuxt frontends, with 5+ years of professional experience.
 
 #### Currently building
-**Build in Orbit** — a multi-merchant commerce platform for Kenya and the US (Laravel 13, Livewire 4, PostgreSQL). In development; the source is private. Progress and engineering decisions are documented in [buildinorbit-showcase](https://github.com/leojeremy/buildinorbit-showcase).
+**Build in Orbit** — a multi-merchant commerce platform for Kenya and the US (Laravel 13, Livewire 4, PostgreSQL). The source is private; the engineering decisions behind it are written up in [buildinorbit-showcase](https://github.com/leojeremy/buildinorbit-showcase).
 
 #### Open source
 | Repo | What it is |
